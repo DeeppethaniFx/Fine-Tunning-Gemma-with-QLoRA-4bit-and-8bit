@@ -23,10 +23,10 @@ This repository contains two Jupyter notebooks for fine-tuning the Gemma model u
 
 ### Memory Usage Comparison on Google Colab (T4 GPU)
 #### 4-bit QLoRA
-![4-bit Memory Usage](./QLoRA_Model_4bit.jpg)
+![4-bit Memory Usage](https://github.com/DeeppethaniFx/Fine-Tunning-Gemma-with-QLoRA-4bit-and-8bit/blob/main/memory_usages_photos/QLoRA_Model_4bit.jpg)
 
 #### 8-bit QLoRA
-![8-bit Memory Usage](./QLoRA_Model_8bit.jpg)
+![8-bit Memory Usage](https://github.com/DeeppethaniFx/Fine-Tunning-Gemma-with-QLoRA-4bit-and-8bit/blob/main/memory_usages_photos/QLoRA_Model_8bit.jpg)
 
 ## Dependencies
 Both notebooks use the following libraries:
